@@ -1,0 +1,16 @@
+:root {
+    --bs-header-color: rgb(8, 173, 36);
+    --bs-body-font-size: 6em;
+    --bs-font-sans-serif: "Lato", sans-serif; 
+}
+
+
+.h1 {
+    color: var(--bs-header-color);    
+    font-size: var(--bs-body-font-size);
+    }
+
+    body {
+       font-family: var(--bs-font-sans-serif);
+    }
+
